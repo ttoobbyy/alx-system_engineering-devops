@@ -1,2 +1,2 @@
-0 echo Hello, World,
+echo Hello, World,
 ln -s /bin/ls ls
