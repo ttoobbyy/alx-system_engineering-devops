@@ -1,2 +1,2 @@
-#!/bin/bash
-Hello, World
+0 echo Hello, World,
+ln -s /bin/ls ls
